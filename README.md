@@ -1,5 +1,4 @@
-# LGMVIP-Web-Development-Task-2
-
+# LGMVIP_Task2_ReactApp
 # Task-2
 
 ## About The Task
